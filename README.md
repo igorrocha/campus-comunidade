@@ -5,3 +5,4 @@ Equipe:
   - Igor Rocha (Engenharia de Computação e Informação, UFRJ)
   - Jéssica Liporace (Engenharia de Controle e Automação, UFRJ)
   - Marc Chevallier (Engenharia de Produção, UNIRIO)
+
